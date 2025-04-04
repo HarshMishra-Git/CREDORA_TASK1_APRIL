@@ -78,4 +78,4 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For any inquiries or support, please contact [Harsh Mishra](harsh.mishra2022@glbajajgroup.org) at .
+For any inquiries or support, please contact [Harsh Mishra](harsh.mishra2022@glbajajgroup.org).
