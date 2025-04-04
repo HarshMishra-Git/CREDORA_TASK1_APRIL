@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+dash
+dash-bootstrap-components
+jupyter-dash
+streamlit
+notebook
+ipykernel
